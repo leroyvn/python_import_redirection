@@ -1,0 +1,1 @@
+print("Importing spam.eggs")
